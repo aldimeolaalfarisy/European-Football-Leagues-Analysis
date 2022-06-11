@@ -6,7 +6,7 @@ In this project, I did analysis on FIFA 22 dataset from [kaagle](https://www.kag
 
 ## Objective
 
-- Who is the best player for each position?
+- Who are the best player for each position?
 - What's the best european league squad?
 
 ## Dataset
